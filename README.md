@@ -1,7 +1,9 @@
+<img width="1834" alt="Make your README (2)" src="https://github.com/user-attachments/assets/f8f30625-a02b-4127-bbca-e5115aebf5d1">
 <h1 align="center">Hi 👋, I'm Fawwaz</h1>
 - 🔭 I’m currently working on **GitHub profile BIO**
 
-- 🌱 I’m currently learning **Advance AI**
+- 🌱 I’m currently l![Uploading Make your README (2).png…]()
+earning **Advance AI**
 
 - 💬 Ask me about **Anything**
 
