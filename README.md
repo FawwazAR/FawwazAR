@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **fawwazaydinr@gmail.com**
 
-- ⚡ Fun fact **I love playing competitife games such as Valorant, Dota 2, etc**
+- ⚡ Fun fact **I love playing competitive games such as Valorant, Dota 2, etc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
