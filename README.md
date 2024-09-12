@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Fawwaz</h1>
 - 🔭 I’m currently working on **GitHub profile BIO**
 
-- 🌱 I’m currently l![Uploading Make your README (2).png…]()
-earning **Advance AI**
+- 🌱 I’m currently learning **Advance AI**
 
 - 💬 Ask me about **Anything**
 
