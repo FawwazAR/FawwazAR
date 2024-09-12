@@ -1,6 +1,9 @@
 <img width="1834" alt="Make your README (3)" src="https://github.com/user-attachments/assets/bdc21afe-4953-49d2-89c1-21debfba2e14">
 
-<h3 align="center">About Me 👋 Hi! I’m an undergraduate student at Politeknik Sriwijaya, currently majoring in Electro Engineering. I’m passionate about electronics, power systems, and automation, and I enjoy learning how technology can be used to solve real-world problems.</h3>
+<h2 align="center">About</h2>
+
+<p align="left">
+  Hi! I’m an undergraduate student at Politeknik Sriwijaya, currently majoring in Electro Engineering. I’m passionate about electronics, power systems, and automation, and I enjoy learning how technology can be used to solve real-world problems.
 
 - 🔭 I’m currently working on **GitHub profile BIO**
 
