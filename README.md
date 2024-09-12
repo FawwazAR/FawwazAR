@@ -1,14 +1,16 @@
-<img width="1834" alt="Make your README (2)" src="https://github.com/user-attachments/assets/f8f30625-a02b-4127-bbca-e5115aebf5d1">
-<h1 align="center">Hi 👋, I'm Fawwaz</h1>
+<img width="1834" alt="Make your README (3)" src="https://github.com/user-attachments/assets/bdc21afe-4953-49d2-89c1-21debfba2e14">
+
+<h3 align="center">About Me 👋 Hi! I’m an undergraduate student at Politeknik Sriwijaya, currently majoring in Electro Engineering. I’m passionate about electronics, power systems, and automation, and I enjoy learning how technology can be used to solve real-world problems.</h3>
+
 - 🔭 I’m currently working on **GitHub profile BIO**
 
-- 🌱 I’m currently learning **Advance AI**
+- 🌱 I’m currently learning **Advanced AI**
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **fawwazaydinr@gmail.com**
 
-- ⚡ Fun fact **I love playing competitife games such as Valorant, Dota 2, etc**
+- ⚡ Fun fact **I love playing competitive games such as Valorant, Dota 2, etc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,9 +20,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fawwazar&show_icons=true&locale=en&layout=compact" alt="fawwazar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fawwazar&show_icons=true&locale=en&layout=compact" alt="fawwazar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fawwazar&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="fawwazar" /></p>
 
